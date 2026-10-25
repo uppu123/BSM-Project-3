@@ -1,6 +1,6 @@
 # Next Steps - BSM Project 3
 
-## Current Status: STEP 1 - EDA (NOTEBOOK CREATED, WAITING FOR MCP SERVER)
+## Current Status: STEP 3 - SPLIT NOTEBOOK (AUGMENTATION NOTEBOOK CREATED)
 
 ### ✅ Completed (STEP 0 - Setup)
 - [x] Create folder structure (notebooks/, results/, data_info/, memory/)
@@ -20,62 +20,32 @@
 - [x] Create `notebooks/01_eda_and_dataset.ipynb` with full EDA pipeline
 - [x] Commit and push to GitHub
 
-### 🔄 Ready to Run (STEP 1 - EDA Execution)
-- [ ] Run notebook on Kaggle GPU via MCP server
-- [ ] Load dataset from Kaggle (prasannavenkatesant/beach-sand-mineral-bsm)
-- [ ] Print class counts and distribution bar chart (paper Fig. 2)
-- [ ] Show sample grid (paper Fig. 3)
-- [ ] Check for corrupt/missing/duplicate images
-- [ ] Log actual counts vs paper's 367 in memory
-- [ ] Save dataset info to data_info/
+### ✅ Completed (Dataset Verification - Local)
+- [x] Downloaded dataset via Kaggle CLI (OAuth authenticated as `kiramada`)
+- [x] Verified 367 total images across 6 classes
+- [x] **Found per-class count mismatch vs paper** (folders appear swapped):
+  - Garnet: 60, Ilmenite: 62, Monazite: 60, Rutile: 66, Sillimanite: 60, Zircon: 59
+- [x] Updated `01_Paper_Summary.md` with actual counts
 
-### 📋 Upcoming Steps (in order)
+### ✅ Completed (STEP 2 - Augmentation Notebook Creation)
+- [x] Create `notebooks/02_augmentation.ipynb` with full augmentation pipeline
+- [x] Paper's augmentation: horizontal flip + 6 rotations
+- [x] Extension: pixel translation (±15% shift)
+- [x] Target: ~1468 total (4x), balanced ~244/class
+- [x] Commit and push to GitHub
 
-#### STEP 2 - Augmentation (notebook 02_augmentation.ipynb)
-- [ ] Implement paper's augmentation (horizontal flip + 6 rotations: 0, 30, 45, 90, 180, 270)
-- [ ] Add pixel translation (±10-15% shift)
-- [ ] Resize to 224×224×3, normalize with ImageNet stats
-- [ ] Generate ~1468 total images (4x), roughly balanced per class
-- [ ] Save combined dataset for reuse (Kaggle dataset or notebook output)
-- [ ] Fixed seed (42)
+### 🔄 Ready to Run (STEP 1-2 Execution)
+- [ ] Run `01_eda_and_dataset.ipynb` on Kaggle GPU
+- [ ] Run `02_augmentation.ipynb` on Kaggle GPU
+- [ ] Generate combined dataset (~1468 images)
+- [ ] Save records to `data_info/`
 
-#### STEP 3 - Split
+### 📋 Next: STEP 3 - Split (notebook 03_split.ipynb)
 - [ ] Primary: 70/15/15 stratified on combined set (1028/220/220)
 - [ ] Supplementary: leak-free split on originals first, then augment train only
 - [ ] Save split file lists to data_info/
 
-#### STEP 4 - Model Training (4 notebooks)
-- [ ] 03_resnet18.ipynb
-- [ ] 04_resnet34.ipynb
-- [ ] 05_dresnet50.ipynb
-- [ ] 06_vgg16.ipynb
-- Each: PyTorch, pretrained ImageNet, 6-class head, 60 epochs, batch=32, seed=42
-
-#### STEP 5 - Metrics (in each model notebook)
-- [ ] Confusion matrix heatmap
-- [ ] Accuracy, per-class & weighted precision/recall/specificity/F1
-- [ ] RMSE (one-hot vs softmax)
-- [ ] Per-class tables (paper Tables 3, 6, 7, 8 format)
-- [ ] Predicted vs actual image grid
-
-#### STEP 6 - Smoke Tests
-- [ ] 1-epoch test for EACH notebook on Kaggle before full training
-- [ ] Fix errors, log in 04_Errors_and_Fixes.md
-- [ ] Only then run full 60 epochs
-
-#### STEP 7 - Comparison
-- [ ] 07_comparison.ipynb with table vs paper (Table 9, Fig 9 equivalent)
-- [ ] Include RMSE comparison
-
-#### STEP 8 - Hyperparameter Tuning (if needed)
-- [ ] Only for models >2 points below paper
-- [ ] Optuna on validation set, 8-10 epochs/trial, 15-20 trials max
-- [ ] Retrain best config for 60 epochs
-
-#### STEP 9 - Final Deliverables
-- [ ] README.md with overview, setup, results, deviations, leakage caveat
-- [ ] Update all memory notes
-- [ ] Push everything to GitHub
+### 📋 Upcoming Steps (in order)
 
 ---
 

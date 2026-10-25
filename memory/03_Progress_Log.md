@@ -24,3 +24,29 @@
     - Saves image lists to `data_info/` for later steps
   - Committed and pushed to GitHub
   - **Waiting for Kaggle MCP server configuration to run notebook**
+
+## 2026-10-26 (continued)
+- **Dataset Downloaded & Verified Locally**:
+  - Downloaded `prasannavenkatesant/beach-sand-mineral-bsm` via Kaggle CLI (OAuth authenticated as `kiramada`)
+  - **Actual class counts** (total=367, matches paper total but per-class differs):
+    - Garnet: 60 (paper: 66)
+    - Ilmenite: 62 (paper: 60)
+    - Monazite: 60 (paper: 60)
+    - Rutile: 66 (paper: 62)
+    - Sillimanite: 60 (paper: 59)
+    - Zircon: 59 (paper: 60)
+  - Class folders appear swapped vs paper labels - will use folder names as ground truth
+  - Updated `01_Paper_Summary.md` with verified counts
+  - EDA notebook ready to run on Kaggle (or locally for verification)
+
+## 2026-10-26 (continued)
+- **STEP 2 - Augmentation Notebook**: CREATED
+  - Created `notebooks/02_augmentation.ipynb` with:
+    - Paper's augmentation: horizontal flip + 6 rotations (0, 30, 45, 90, 180, 270)
+    - Extension: pixel translation (±15% shift)
+    - Resize to 224×224, ImageNet normalization
+    - Target: ~1468 total images (4x), balanced ~244 per class
+    - Deterministic seeding (42) for reproducibility
+    - Saves combined dataset + records to `/kaggle/working/combined_dataset/` and `data_info/`
+  - Committed and pushed to GitHub
+  - Ready to run on Kaggle GPU

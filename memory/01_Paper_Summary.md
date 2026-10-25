@@ -8,9 +8,11 @@
 ## Key Facts from Paper
 
 ### Dataset
-- **Source**: Beach Sand Mineral (BSM) dataset
+- **Source**: Beach Sand Mineral (BSM) dataset (Kaggle: `prasannavenkatesant/beach-sand-mineral-bsm`)
 - **Classes** (6): Ilmenite, Rutile, Zircon, Garnet, Monazite, Sillimanite
-- **Reported counts**: 60, 62, 60, 66, 60, 59 = **367 total** (paper text says 357 - inconsistency)
+- **Paper reported counts**: 60, 62, 60, 66, 60, 59 = **367 total** (paper text says 357 - inconsistency)
+- **Actual counts (verified 2026-10-26)**: Garnet=60, Ilmenite=62, Monazite=60, Rutile=66, Sillimanite=60, Zircon=59 = **367 total**
+  - Note: Per-class distribution differs from paper (appears swapped: Garnet↔Ilmenite, Rutile↔Zircon, Sillimanite↔Monazite)
 - **Augmented total**: 1,468 images (4x original)
 - **Split**: 70/15/15 = 1028 train / 220 val / 220 test (on augmented set)
 
