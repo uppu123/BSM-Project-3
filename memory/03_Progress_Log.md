@@ -11,3 +11,16 @@
     - 07_Next_Steps.md - TODO list
   - Created 02_Decisions.md with all configuration decisions
   - Next: STEP 1 - EDA notebook
+
+## 2026-10-26 (continued)
+- **STEP 1 - EDA Notebook**: CREATED
+  - Created `notebooks/01_eda_and_dataset.ipynb` with:
+    - Dataset loading from Kaggle
+    - Class counts verification vs paper (367 total)
+    - Distribution bar chart (paper Fig. 2)
+    - Sample image grid (paper Fig. 3)
+    - Image properties analysis (sizes, modes, aspect ratios)
+    - Corrupt/missing/duplicate detection
+    - Saves image lists to `data_info/` for later steps
+  - Committed and pushed to GitHub
+  - **Waiting for Kaggle MCP server configuration to run notebook**

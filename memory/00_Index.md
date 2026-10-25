@@ -6,7 +6,7 @@ Reproduction and extension of the paper: **"D-Resnet: deep residual neural netwo
 - **Dataset**: Kaggle `prasannavenkatesant/beach-sand-mineral-bsm` (6 classes, ~367 images)
 - **Models**: ResNet-18, ResNet-34, D-ResNet-50, VGG-16
 - **Framework**: PyTorch on Kaggle GPU (T4/P100)
-- **GitHub**: https://github.com/holisticNoobda/BSM-Project-3.git
+- **GitHub**: https://github.com/uppu123/BSM-Project-3.git (created under authenticated account; can transfer to holisticNoobda later)
 
 ## Memory Notes
 - [[01_Paper_Summary]] - Key paper facts and inconsistencies

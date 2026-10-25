@@ -1,6 +1,6 @@
 # Next Steps - BSM Project 3
 
-## Current Status: STEP 1 - EDA (READY TO START)
+## Current Status: STEP 1 - EDA (NOTEBOOK CREATED, WAITING FOR MCP SERVER)
 
 ### ✅ Completed (STEP 0 - Setup)
 - [x] Create folder structure (notebooks/, results/, data_info/, memory/)
@@ -16,15 +16,20 @@
 - [x] Write memory/07_Next_Steps.md (this file)
 - [x] First commit and push to GitHub
 
-### 📋 Upcoming Steps (in order)
+### ✅ Completed (STEP 1 - EDA Notebook Creation)
+- [x] Create `notebooks/01_eda_and_dataset.ipynb` with full EDA pipeline
+- [x] Commit and push to GitHub
 
-#### STEP 1 - EDA (notebook 01_eda_and_dataset.ipynb) - NEXT
+### 🔄 Ready to Run (STEP 1 - EDA Execution)
+- [ ] Run notebook on Kaggle GPU via MCP server
 - [ ] Load dataset from Kaggle (prasannavenkatesant/beach-sand-mineral-bsm)
 - [ ] Print class counts and distribution bar chart (paper Fig. 2)
 - [ ] Show sample grid (paper Fig. 3)
 - [ ] Check for corrupt/missing/duplicate images
 - [ ] Log actual counts vs paper's 367 in memory
 - [ ] Save dataset info to data_info/
+
+### 📋 Upcoming Steps (in order)
 
 #### STEP 2 - Augmentation (notebook 02_augmentation.ipynb)
 - [ ] Implement paper's augmentation (horizontal flip + 6 rotations: 0, 30, 45, 90, 180, 270)
