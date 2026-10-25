@@ -100,3 +100,25 @@
   - Saved splits to `data_info/primary_split.json` and `supplementary_split.json`
   - Saved leakage report to `data_info/leakage_report.json`
   - Ready for model training on Kaggle GPU
+
+## 2026-10-26 (continued)
+- **STEP 4 - Smoke Tests**: COMPLETED (all 4 models validated locally)
+  - Ran smoke validation for all 4 models locally (GTX 1650)
+  - **ResNet-18**: 11.1M params, forward/backward pass OK, loss=1.93
+  - **ResNet-34**: 21.3M params, forward/backward pass OK, loss=2.19
+  - **D-ResNet-50**: 23.5M params, forward/backward pass OK, loss=1.74
+  - **VGG-16**: 134.3M params, forward/backward pass OK, loss=2.02
+  - All 5 validations passed: data loading, batch, model creation, forward pass, backward pass
+  - All models ready for full training on Kaggle GPU (T4/P100)
+  - Next: Update notebooks with EPOCHS=60 and push to Kaggle for full training
+
+## 2026-10-26 (continued)
+- **STEP 5 - Full Training on Kaggle GPU**: IN PROGRESS
+  - Pushed all 4 model notebooks to Kaggle with EPOCHS=60:
+    - **ResNet-18**: `kiramada/bsm-resnet-18-training` - ERROR (checking logs)
+    - **ResNet-34**: `kiramada/bsm-resnet-34-training` - RUNNING
+    - **D-ResNet-50**: `kiramada/bsm-d-resnet-50-training` - ERROR (checking logs)
+    - **VGG-16**: `kiramada/bsm-vgg-16-training` - ERROR (checking logs)
+  - ResNet-34 currently RUNNING on Kaggle T4 GPU
+  - Need to debug errors for ResNet-18, D-ResNet-50, VGG-16
+  - Kaggle CLI download issues preventing direct log retrieval - will check Kaggle web UI
