@@ -1,33 +1,37 @@
 # Next Steps - BSM Project 3
 
-## Current Status: STEP 0 - Setup (IN PROGRESS)
+## Current Status: STEP 1 - EDA (READY TO START)
 
-### ✅ Completed
+### ✅ Completed (STEP 0 - Setup)
 - [x] Create folder structure (notebooks/, results/, data_info/, memory/)
 - [x] Initialize git repository
+- [x] Create GitHub repo (https://github.com/uppu123/BSM-Project-3.git)
 - [x] Write memory/00_Index.md
 - [x] Write memory/01_Paper_Summary.md
-
-### 🔄 In Progress
-- [ ] Add GitHub collaborator `uppu123`
-- [ ] Write memory/07_Next_Steps.md (this file)
-- [ ] First commit and push to GitHub
+- [x] Write memory/02_Decisions.md
+- [x] Write memory/03_Progress_Log.md
+- [x] Write memory/04_Errors_and_Fixes.md
+- [x] Write memory/05_Results.md
+- [x] Write memory/06_Kaggle_Quota.md
+- [x] Write memory/07_Next_Steps.md (this file)
+- [x] First commit and push to GitHub
 
 ### 📋 Upcoming Steps (in order)
 
-#### STEP 1 - EDA (notebook 01_eda_and_dataset.ipynb)
-- [ ] Load dataset from Kaggle
+#### STEP 1 - EDA (notebook 01_eda_and_dataset.ipynb) - NEXT
+- [ ] Load dataset from Kaggle (prasannavenkatesant/beach-sand-mineral-bsm)
 - [ ] Print class counts and distribution bar chart (paper Fig. 2)
 - [ ] Show sample grid (paper Fig. 3)
 - [ ] Check for corrupt/missing/duplicate images
-- [ ] Log actual counts vs paper's 367
+- [ ] Log actual counts vs paper's 367 in memory
+- [ ] Save dataset info to data_info/
 
 #### STEP 2 - Augmentation (notebook 02_augmentation.ipynb)
-- [ ] Implement paper's augmentation (horizontal flip + 6 rotations)
-- [ ] Add pixel translation (±10-15%)
+- [ ] Implement paper's augmentation (horizontal flip + 6 rotations: 0, 30, 45, 90, 180, 270)
+- [ ] Add pixel translation (±10-15% shift)
 - [ ] Resize to 224×224×3, normalize with ImageNet stats
 - [ ] Generate ~1468 total images (4x), roughly balanced per class
-- [ ] Save combined dataset for reuse
+- [ ] Save combined dataset for reuse (Kaggle dataset or notebook output)
 - [ ] Fixed seed (42)
 
 #### STEP 3 - Split
@@ -79,6 +83,6 @@
 ---
 
 ## Blockers / Questions
-- [ ] Need to authenticate `gh` CLI for adding collaborator
-- [ ] Need to configure Kaggle MCP server (requires kaggle.json credentials)
+- [ ] Need to configure Kaggle MCP server (requires kaggle.json credentials) - will need user to provide
 - [ ] Verify dataset download works on Kaggle
+- [ ] User may want to transfer repo to holisticNoobda/BSM-Project-3
