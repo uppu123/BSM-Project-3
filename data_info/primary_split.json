@@ -1,0 +1,5868 @@
+{
+  "split_type": "primary_combined",
+  "description": "70/15/15 stratified split on combined (original + augmented) dataset.",
+  "seed": 42,
+  "total_images": 1464,
+  "train": [
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\34.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\12_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\10_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\35_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\12_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\4.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\8_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\25.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\38_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\34_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\13_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\55_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\32_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\45_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\21_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\51_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\36_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\19_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\15_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\25_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\45_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\12_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\16_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\48.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\11_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\37_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\27.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\14.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\32_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\18_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\43.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\22_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\38.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\45_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\41.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\48_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\13_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\10_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\18_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\56.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\41_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\51_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\59.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\17.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\44_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\18_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\20_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\21_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\20_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\16.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\59_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\24_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\20_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\32_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\36.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\17_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\37_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\7_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\3_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\12_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\43_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\47_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\49_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\50_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\12_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\59_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\13.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\71_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\59.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\17_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\51_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\55.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\25_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\25_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\25_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\16_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\24.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\17_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\31_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\9_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\36_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\48_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\56.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\53_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\57_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\21_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\59_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\9_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\15.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\44_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\59.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\40_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\49_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\56_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\18_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\60_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\43_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\35_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\27_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\54_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\16_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\3.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\15_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\3_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\24_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\21_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\42.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\64.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\62_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\29_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\3_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\28_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\19.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\19_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\58_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\15_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\40_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\2_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\5_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\59_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\27_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\44.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\24_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\33_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\28_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\34_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\37.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\20_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\52.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\41_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\50.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\16.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\20_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\46_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\33_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\13_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\26_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\1_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\29_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\33_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\46_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\10_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\29_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\18.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\8_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\55_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\54_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\23_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\1_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\4.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\33.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\54_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\56_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\48_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\35_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\25_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\14_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\2_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\57_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\17_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\54_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\54_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\50_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\9_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\10_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\35_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\27_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\4.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\26_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\16.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\36.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\52_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\39.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\38_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\50_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\8_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\36_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\14_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\36_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\38.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\10_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\30_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\28.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\49_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\11.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\20_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\44_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\34_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\25_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\60_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\29_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\33_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\49.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\10.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\39.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\14_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\52_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\4_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\19_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\32_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\13_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\8.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\45_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\22_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\7_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\4_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\42_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\41_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\37_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\17.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\9.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\14_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\17_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\27_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\19.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\17_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\37.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\4_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\9.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\26_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\58_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\42_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\3_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\20_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\56_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\38_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\27_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\41_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\12_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\30_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\33_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\2_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\21_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\29_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\15_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\34_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\48_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\36_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\48_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\38_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\38_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\25_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\10_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\40.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\12_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\9_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\5_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\12.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\38_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\20_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\34_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\52_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\51.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\25_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\19.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\60_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\28_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\16_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\4_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\61_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\58_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\58_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\30_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\48_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\59_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\19_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\47_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\17_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\6.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\24_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\18_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\34.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\13_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\49.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\68_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\50_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\62.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\9_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\29.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\6_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\45_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\41_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\59_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\1_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\11_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\43_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\18_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\27.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\20_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\53_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\27.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\23_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\50.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\54_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\34_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\31.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\26.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\47_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\25.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\26_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\15.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\13.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\14_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\37_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\52_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\29_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\32_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\57_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\35_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\23_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\70.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\41_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\48_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\12.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\22_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\52_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\60.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\5_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\4.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\13.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\41.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\2_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\39_augrot0_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\27_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\25.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\8_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\37_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\55_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\43.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\60_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\12_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\41_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\48_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\33_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\52_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\55_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\54_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\24_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\19.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\21_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\54_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\29.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\19.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\42_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\44.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\22_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\13_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\44_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\48_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\41.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\6_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\15_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\42_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\44_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\37.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\51_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\8.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\20_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\60_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\42.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\44_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\42_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\11_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\38.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\34.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\53_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\33.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\47_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\9.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\50_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\12.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\15.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\61_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\15_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\4_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\60.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\40_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\15.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\11_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\10_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\8.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\20_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\16_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\24.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\3_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\18_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\39_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\49_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\50_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\28.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\10.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\36.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\5_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\29_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\9.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\9_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\48_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\15_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\8_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\47.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\26_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\26_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\31_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\5_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\43_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\26.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\9_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\28_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\20.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\30_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\25_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\15_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\1_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\48.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\32_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\49.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\9_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\11.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\24.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\51_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\34.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\26_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\21.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\34_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\18_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\54.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\52_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\16_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\18.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\36_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\50_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\27_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\40.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\22_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\25_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\12_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\55_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\18_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\37.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\53_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\23_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\14_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\2_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\9_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\2.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\45_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\23_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\52_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\40_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\7_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\56.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\44_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\26_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\12_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\49_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\9_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\7.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\3_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\21_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\12.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\53.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\52_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\14.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\22_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\14.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\62_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\10_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\56.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\19_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\34_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\1_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\10_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\38.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\31_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\11.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\25_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\67.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\57.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\5.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\19_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\54_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\35_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\43_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\59.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\23_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\44.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\2.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\51.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\57.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\21_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\52_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\4_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\37_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\54.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\56.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\38_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\38_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\58_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\56_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\32_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\2_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\15_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\41_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\7.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\2.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\47.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\21.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\29_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\29_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\28_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\56_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\32_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\2_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\43_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\60_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\49_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\32.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\5_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\22_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\54_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\33_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\15_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\47_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\11_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\48.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\39_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\10_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\47_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\29.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\27_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\39_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\13_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\13_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\47_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\3_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\65.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\11_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\19_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\50_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\39_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\32.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\53_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\31.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\29_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\53.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\2.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\34_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\32_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\30_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\33.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\16_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\38_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\4_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\41.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\29_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\57.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\11_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\7_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\30_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\26_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\22.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\51_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\24_augrot0_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\41_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\52_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\54_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\28_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\17_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\39_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\15_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\47_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\53_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\55_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\62_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\25_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\60_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\24.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\54.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\71.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\53.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\23_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\18_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\20.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\60_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\42_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\40_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\58_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\9.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\53_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\43.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\58.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\23_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\59_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\55.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\50_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\34_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\27_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\47_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\15_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\53_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\15_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\31.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\8_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\30_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\13_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\1_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\44_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\40_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\21.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\37.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\35_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\11_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\11.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\14.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\46_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\19_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\40_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\43_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\42_augrot0_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\7_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\26_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\41_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\1.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\15_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\40_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\11.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\38_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\17.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\24.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\1_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\14_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\28_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\49_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\52.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\44_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\60.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\37_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\18.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\41_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\21_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\30_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\16_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\29.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\15_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\46.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\64_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\6_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\56_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\46.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\13_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\39_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\45_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\28_augrot0_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\59_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\10_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\43_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\36_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\10_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\31_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\53_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\60_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\60_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\56_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\16_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\8_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\5_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\37_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\50_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\59_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\14_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\55_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\32.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\20.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\21_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\53_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\25.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\49_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\39_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\60_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\36_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\6_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\58_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\53_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\3_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\34_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\28_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\44_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\1_augrot0_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\57.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\21_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\33_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\24_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\23.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\54.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\7.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\38_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\21_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\52.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\3.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\16_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\16_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\27.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\47.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\53_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\7_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\21_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\6_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\15_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\23.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\8_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\14_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\61.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\58.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\8_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\14_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\33_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\8_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\53_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\10_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\18_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\57.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\41_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\35_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\27_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\50_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\41.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\32.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\33_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\53_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\57_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\62.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\6_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\54_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\49_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\36_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\4_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\22_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\49_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\1_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\21_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\57_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\13_augrot0_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\13_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\33.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\19_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\31_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\58_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\54_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\32_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\20_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\24_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\16.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\54_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\34_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\21_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\35_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\50_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\53_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\10_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\69_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\1_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\14_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\49_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\23_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\3.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\7_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\21.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\60.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\45_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\7_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\53_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\19_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\46_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\16_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\13.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\26_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\37_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\20_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\39.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\25_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\57_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\38_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\3_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\21_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\47_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\56_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\52_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\13_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\42_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\11_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\32_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\63_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\55.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\4_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\57_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\25.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\12.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\54.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\35.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\10_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\30_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\56_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\14_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\42_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\1_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\43_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\66.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\34.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\31_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\22_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\29.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\55.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\6_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\39_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\12_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\42.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\34_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\60_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\35.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\27_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\6_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\32_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\44_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\49_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\24.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\45_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\19_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\40.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\12_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\15.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\52_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\4_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\30_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\9_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\67_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\8_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\44_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\53_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\13_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\8_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\39_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\7.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\11_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\16_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\53_augrot0_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\2_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\37_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\49.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\2_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\40_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\45_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\6.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\3_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\49.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\47.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\2_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\26_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\33_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\58.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\57_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\10_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\70_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\14_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\51_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\50_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\13.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\31_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\58.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\31_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\16_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\36.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\28.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\51_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\1.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\3_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\23.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\52_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\22_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\31.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\27.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\43_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\6_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\15.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\57_augrot0_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\52_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\22.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\49_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\42_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\36_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\7.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\68.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\58_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\37_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\37_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\60_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\2_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\55_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\24_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\19.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\35.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\17.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\24_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\47_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\3_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\55_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\31_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\47_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\1_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\39_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\49_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\24_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\1_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\70_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\33_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\47.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\14_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\19_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\44_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\54_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\30_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\23.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\20.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\51_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\58.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\14_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\32.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\7_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\39_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\59.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\17.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\17_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\14_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\51_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\29_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\56_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\41_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\45_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\64_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\15_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\38_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\58_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\56.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\42_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\4_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\26_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\31.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\27_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\8.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\22_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\37_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\5.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\17_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\6_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\24_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\55_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\26_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\15_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\47.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\61_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\12_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\21.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\26.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\36_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\52.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\7_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\16_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\59_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\52.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\52_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\28.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\37_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\32_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\39_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\41_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\8_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\55_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\9.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\9_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\18_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\10_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\6_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\5.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\6_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\1_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\43_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\42_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\28_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\6.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\18_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\17_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\6_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\50_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\18.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\28.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\44_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\11_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\2_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\35_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\5.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\42.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\30_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\45_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\42.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\42_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\33.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\7_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\46_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\48.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\40.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\37_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\5_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\1_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\50_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\54_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\12_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\55_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\35_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\33_augflip_rot30.jpg",
+      "class": "Monazite"
+    }
+  ],
+  "val": [
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\40_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\28_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\13_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\33.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\58_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\47_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\35_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\42_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\22_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\12_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\1_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\45_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\52_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\11_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\27_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\46_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\30_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\19_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\10_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\8_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\9_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\38.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\12_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\22.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\14_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\56_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\38_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\39.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\22_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\16.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\32.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\40_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\23_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\40_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\16.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\58_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\4_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\42_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\44.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\5_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\23_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\56_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\60_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\38.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\28_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\27_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\28_augflip_rot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\71_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\22.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\56_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\57_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\57_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\59.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\35_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\28_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\66_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\21_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\57_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\36_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\55.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\7_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\36_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\46_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\48_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\55_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\51_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\48_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\59_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\57_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\7_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\6_augrot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\20_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\47_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\30_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\26.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\43.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\63.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\31_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\10.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\18_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\50_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\3.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\16_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\38_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\37.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\23.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\60_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\16_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\2_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\5_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\11_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\13_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\32_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\38_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\8_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\58.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\1_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\12_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\29_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\51.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\51.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\30_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\39_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\46.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\40.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\36_augrot45_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\59_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\5_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\46_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\34.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\3_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\3_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\39_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\52_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\38_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\6.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\7_augrot45_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\37_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\49.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\11_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\14_augrot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\52.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\44_augflip_rot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\17_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\60.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\3.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\69.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\35_augrot0_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\36_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\22.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\32_augrot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\13_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\2_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\35.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\19_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\9_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\24_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\4_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\4_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\34_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\2_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\14.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\18_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\39_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\55_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\50.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\47_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\58_augflip_rot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\44_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\30_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\8.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\53.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\25_augrot45_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\51.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\51_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\58_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\26.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\18.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\31_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\61.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\51_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\43_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\47_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\42_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\24_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\58_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\11_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\24_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\11_augflip_rot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\45_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\29.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\7.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\37_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\43_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\11_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\20_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\36_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\40_augflip_rot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\5.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\25_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\31_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\46.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\27.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\10.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\55_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\19_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\6_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\43_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\59_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\57_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\3_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\17_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\50_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\44.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\11_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\17_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\56_augrot180_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\27_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\26.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\55_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\49_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\30_augrot180_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\21.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\45_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\5_augrot0_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\4_augrot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\35_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\29_augrot30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\25.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\40_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\16_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\17.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\41_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\42.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\48_augrot180_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\60_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\11.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\12_augrot90.jpg",
+      "class": "Monazite"
+    }
+  ],
+  "test": [
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\42_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\3.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\2.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\49_augflip_rot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\14.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\7_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\31_augflip_rot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\2_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\13.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\17_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\11_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\57_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\17_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\36.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\34_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\41.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\23_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\48.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\32_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\9_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\34_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\34_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\29_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\3_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\44_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\12_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\61_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\5_augrot0_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\11_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\7_augrot45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\19_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\23_augrot90_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\56_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\36.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\55_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\54.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\32_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\49_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\38_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\20.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\27_augrot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\68_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\46_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\44.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\49_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\10_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\37_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\48_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\33_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\40_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\48_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\46_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\50.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\16_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\33_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\1_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\51_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\31_augflip_rot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\24_augrot0_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\24_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\23.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\26_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\51_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\43_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\12_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\33_augrot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\22_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\22.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\23_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\18_augrot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\21_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\5_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\6.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\25_augrot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\60.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\20_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\24_augflip_rot180.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\14_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\22_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\22_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\57_augrot90_translate.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\39.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\10_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\45_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\51_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\47_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\9_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\46_augflip_rot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\40_augrot0.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\6_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\18_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\48_augflip_rot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\13_augrot0_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\59_augflip_rot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\2_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\45_augrot90.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\45.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\28_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\33_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\12_augrot270.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\53.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\58_augrot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\31_augflip_rot0.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\11_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\1.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\35_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\50.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\50.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\40_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\48_augrot180.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\35.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\47_augrot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\1.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\65_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\26_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\35_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\29_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\55_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\50_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\62_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\67_augflip_rot270.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\36_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\6_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\46_augflip_rot90.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\17_augflip_rot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\13_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\27_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\56_augrot30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\53.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\46_augrot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\22_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\6.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\46.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\25_augrot180_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\11_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\42_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\65_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\43_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\3_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\10.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\46_augflip_rot45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\41_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\5_augflip_rot90.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\29_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\8_augflip_rot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\41_augflip_rot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\23_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\23_augrot270.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\51_augrot90_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\19_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\2_augrot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\39.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\23_augflip_rot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\59_augflip_rot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\39_augrot90_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\33_augflip_rot30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\17_augflip_rot180.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\36_augrot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\57_augrot180_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\40.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\43.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\61_augrot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\2.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\23_augflip_rot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\30_augrot30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\51_augflip_rot270.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\44_augrot90_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\1.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\39_augflip_rot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\54_augrot45_translate.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\51.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\19_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\22_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\32_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\45_augrot90.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\18.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\1_augflip_rot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\48_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\20.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\40_augrot0.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\20_augrot0_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\43_augrot45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\56_augrot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\8.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\48.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\59_augrot90_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\57.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\12.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\55.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\25_augrot45_translate.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\43_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\15_augrot45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\46_augflip_rot0.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\12_augrot180_translate.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\3_augflip_rot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\20_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\10_augrot45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\29_augrot270.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\27_augrot0.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\35.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\18_augrot0.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\34_augrot90.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Ilmenite\\60_augflip_rot180.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\59_augrot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\66_augrot180.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\10.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\26_augflip_rot30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\54_augrot45_translate.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\63_augflip_rot90.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\26_augflip_rot270.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Rutile\\69_augrot0_translate.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\43.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Sillimanite\\4.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\41_augflip_rot30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Monazite\\10_augrot180.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Zircon\\58_augflip_rot45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\combined_dataset\\Garnet\\35_augrot0_translate.jpg",
+      "class": "Garnet"
+    }
+  ]
+}

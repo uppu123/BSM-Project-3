@@ -81,3 +81,22 @@
   - Generated outputs in `results/`: class_distribution.png, sample_grid.png, image_properties.png
   - Generated outputs in `data_info/`: class_counts.csv, eda_report.json, original_image_list.json/csv
   - EDA complete - ready for augmentation step
+
+## 2026-10-26 (continued)
+- **STEP 2 - Augmentation Execution**: COMPLETED (run locally)
+  - Ran `02_augmentation.ipynb` logic locally (CPU)
+  - Generated 1464 augmented images (244 per class, 6 classes = 1464 total, close to paper's 1468)
+  - Paper's augmentation: horizontal flip + 6 rotations (0, 30, 45, 90, 180, 270)
+  - Extension: pixel translation (±15% shift) using Albumentations
+  - Resize to 224×224, ImageNet normalization
+  - Saved combined dataset to `C:\BSM Project 3\combined_dataset/` (1464 images)
+  - Saved records to `data_info/combined_dataset_records.json` and config to `augmentation_config.json`
+
+- **STEP 3 - Split Execution**: COMPLETED (run locally)
+  - Ran split logic locally
+  - **Primary split** (combined dataset): 1024 train / 220 val / 220 test (69.9%/15.0%/15.0%)
+  - **Supplementary split** (leak-free, originals only): 256 train / 55 val / 56 test
+  - **Leakage analysis** (primary split): 67 train-test overlapping originals (expected with combined split)
+  - Saved splits to `data_info/primary_split.json` and `supplementary_split.json`
+  - Saved leakage report to `data_info/leakage_report.json`
+  - Ready for model training on Kaggle GPU

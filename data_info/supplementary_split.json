@@ -1,0 +1,1480 @@
+{
+  "split_type": "supplementary_leak_free",
+  "description": "70/15/15 split on original 367 images only. Training set augmented separately.",
+  "seed": 42,
+  "total_originals": 367,
+  "train_originals": [
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\23.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\46.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\54.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\33.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\55.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\4.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\36.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\21.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\39.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\51.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\26.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\8.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\58.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\17.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\18.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\66.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\32.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\63.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\22.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\5.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\42.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\22.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\53.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\48.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\14.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\47.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\58.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\58.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\6.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\1.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\8.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\62.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\36.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\14.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\39.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\7.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\34.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\19.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\32.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\36.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\32.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\52.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\28.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\29.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\32.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\2.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\33.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\58.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\15.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\44.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\10.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\56.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\37.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\9.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\5.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\59.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\7.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\24.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\43.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\16.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\19.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\8.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\23.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\51.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\25.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\35.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\16.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\21.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\57.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\60.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\67.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\42.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\27.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\48.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\31.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\49.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\20.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\40.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\40.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\16.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\37.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\11.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\6.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\39.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\37.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\31.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\31.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\18.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\48.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\37.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\2.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\10.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\65.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\60.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\3.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\1.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\51.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\7.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\21.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\44.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\55.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\14.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\3.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\2.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\37.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\12.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\10.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\53.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\17.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\9.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\9.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\30.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\41.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\34.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\46.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\20.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\7.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\68.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\30.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\70.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\9.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\9.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\3.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\45.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\13.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\39.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\38.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\12.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\8.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\69.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\47.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\52.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\30.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\56.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\38.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\17.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\40.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\38.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\52.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\23.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\55.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\38.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\50.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\28.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\33.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\55.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\22.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\35.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\24.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\4.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\17.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\6.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\13.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\2.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\15.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\9.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\49.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\13.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\59.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\43.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\47.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\30.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\29.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\57.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\34.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\55.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\34.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\35.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\23.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\5.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\64.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\42.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\55.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\29.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\26.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\24.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\4.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\53.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\10.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\14.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\41.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\18.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\13.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\60.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\36.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\33.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\4.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\20.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\7.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\42.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\38.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\48.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\26.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\43.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\52.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\44.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\16.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\50.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\50.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\54.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\43.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\13.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\24.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\22.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\1.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\57.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\58.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\61.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\27.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\5.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\43.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\34.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\20.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\15.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\17.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\11.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\5.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\11.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\22.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\19.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\52.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\2.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\49.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\58.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\43.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\57.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\25.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\50.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\6.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\20.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\44.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\54.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\27.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\57.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\12.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\19.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\47.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\46.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\56.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\32.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\41.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\59.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\25.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\28.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\46.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\35.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\50.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\18.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\31.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\60.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\26.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\8.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\56.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\14.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\27.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\25.jpg",
+      "class": "Garnet"
+    }
+  ],
+  "val_originals": [
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\27.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\12.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\62.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\33.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\30.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\2.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\48.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\26.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\51.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\15.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\11.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\49.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\51.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\16.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\41.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\54.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\60.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\26.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\12.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\46.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\42.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\40.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\32.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\45.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\35.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\53.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\42.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\44.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\36.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\8.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\21.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\50.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\54.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\59.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\60.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\10.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\3.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\40.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\6.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\71.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\40.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\21.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\11.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\49.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\15.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\4.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\3.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\35.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\41.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\6.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\57.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\56.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\45.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\11.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\20.jpg",
+      "class": "Rutile"
+    }
+  ],
+  "test_originals": [
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\14.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\10.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\30.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\45.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\7.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\15.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\34.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\24.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\12.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\41.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\53.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\33.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\53.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\39.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\29.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\45.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\25.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\29.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\39.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\27.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\56.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\22.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\18.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\18.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\3.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\61.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\47.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\51.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\23.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\13.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\36.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\54.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\1.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\31.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\44.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\1.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\19.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\59.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\37.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\16.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\25.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\47.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\52.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\28.jpg",
+      "class": "Garnet"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\17.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\38.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\29.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\23.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Ilmenite\\21.jpg",
+      "class": "Ilmenite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Rutile\\48.jpg",
+      "class": "Rutile"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\59.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\28.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Sillimanite\\19.jpg",
+      "class": "Sillimanite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Zircon\\24.jpg",
+      "class": "Zircon"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Monazite\\49.jpg",
+      "class": "Monazite"
+    },
+    {
+      "path": "C:\\BSM Project 3\\data_raw\\BSM\\Garnet\\45.jpg",
+      "class": "Garnet"
+    }
+  ]
+}

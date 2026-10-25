@@ -56,9 +56,20 @@
 - [x] 0 corrupt images, 0 duplicates found
 - [x] Generated outputs in `results/` and `data_info/`
 
-### 🔄 Ready to Run (STEP 2-4 Execution on Kaggle GPU)
-- [ ] Run `02_augmentation.ipynb` on Kaggle GPU (generates combined dataset ~1468 images)
-- [ ] Run `03_split.ipynb` on Kaggle GPU (generates split files)
+### ✅ Completed (STEP 2 - Augmentation Execution - Local)
+- [x] Ran augmentation locally (CPU)
+- [x] Generated 1464 images (244 per class, 6 classes = 1464 total)
+- [x] Paper's augmentation + pixel translation (±15%) applied
+- [x] Saved to `combined_dataset/` and `data_info/`
+
+### ✅ Completed (STEP 3 - Split Execution - Local)
+- [x] Primary split: 1024/220/220 (combined dataset)
+- [x] Supplementary split: 256/55/56 (leak-free, originals only)
+- [x] Leakage analysis: 67 train-test overlaps (expected)
+- [x] Saved splits to `data_info/`
+
+### 🔄 Ready to Run (STEP 4 - Model Training on Kaggle GPU)
+- [ ] Upload combined dataset to Kaggle as dataset
 - [ ] Run each model notebook with EPOCHS=1 (smoke test) on Kaggle GPU
 - [ ] If smoke tests pass, change EPOCHS=60 and run full training for each model
 - [ ] Save results to `results/` and commit after each

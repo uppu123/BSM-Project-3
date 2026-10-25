@@ -1,0 +1,65 @@
+{
+  "seed": 42,
+  "target_total": 1468,
+  "target_per_class": 244,
+  "img_size": [
+    224,
+    224
+  ],
+  "imagenet_mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "imagenet_std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "paper_rotations": [
+    0,
+    30,
+    45,
+    90,
+    180,
+    270
+  ],
+  "pixel_translation_limit": 0.15,
+  "total_original": 367,
+  "total_augmented": 1097,
+  "final_total": 1464,
+  "class_counts_original": {
+    "Garnet": 60,
+    "Ilmenite": 62,
+    "Monazite": 60,
+    "Rutile": 66,
+    "Sillimanite": 60,
+    "Zircon": 59
+  },
+  "class_counts_final": {
+    "Garnet": 244,
+    "Ilmenite": 244,
+    "Monazite": 244,
+    "Rutile": 244,
+    "Sillimanite": 244,
+    "Zircon": 244
+  },
+  "transforms_used": [
+    "flip_rot0",
+    "rot0",
+    "flip_rot30",
+    "rot30",
+    "flip_rot45",
+    "rot45",
+    "flip_rot90",
+    "rot90",
+    "flip_rot180",
+    "rot180",
+    "flip_rot270",
+    "rot270",
+    "rot0_translate",
+    "rot45_translate",
+    "rot90_translate",
+    "rot180_translate"
+  ]
+}
