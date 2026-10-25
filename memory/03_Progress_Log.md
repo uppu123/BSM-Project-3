@@ -115,10 +115,14 @@
 ## 2026-10-26 (continued)
 - **STEP 5 - Full Training on Kaggle GPU**: IN PROGRESS
   - Pushed all 4 model notebooks to Kaggle with EPOCHS=60:
-    - **ResNet-18**: `kiramada/bsm-resnet-18-training` - ERROR (checking logs)
-    - **ResNet-34**: `kiramada/bsm-resnet-34-training` - RUNNING
-    - **D-ResNet-50**: `kiramada/bsm-d-resnet-50-training` - ERROR (checking logs)
-    - **VGG-16**: `kiramada/bsm-vgg-16-training` - ERROR (checking logs)
-  - ResNet-34 currently RUNNING on Kaggle T4 GPU
-  - Need to debug errors for ResNet-18, D-ResNet-50, VGG-16
-  - Kaggle CLI download issues preventing direct log retrieval - will check Kaggle web UI
+    - **ResNet-18**: `kiramada/bsm-resnet-18-training` - ERROR (re-pushed v11)
+    - **ResNet-34**: `kiramada/bsm-resnet-34-training` - **RUNNING** (T4 GPU)
+    - **D-ResNet-50**: `kiramada/bsm-d-resnet-50-training` - ERROR (re-pushed v1)
+    - **VGG-16**: `kiramada/bsm-vgg-16-training` - ERROR (re-pushed v3)
+  - ResNet-34 currently RUNNING on Kaggle T4 GPU (60 epochs)
+  - ResNet-18 re-pushed as version 11
+  - D-ResNet-50 re-pushed as version 1
+  - VGG-16 re-pushed as version 3
+  - Kaggle GPU limit: 2 concurrent sessions (ResNet-34 running, 1 slot available)
+  - Need to wait for ResNet-34 to complete or slot to free up
+  - Will re-push errored kernels after slot frees up
