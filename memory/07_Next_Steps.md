@@ -49,9 +49,15 @@
 - [x] All have EPOCHS=1 for smoke test
 - [x] Commit and push to GitHub
 
-### 🔄 Ready to Run (STEP 1-4 Execution on Kaggle GPU)
-- [ ] Run `01_eda_and_dataset.ipynb` on Kaggle GPU (smoke test + full)
-- [ ] Run `02_augmentation.ipynb` on Kaggle GPU (generates combined dataset)
+### ✅ Completed (STEP 1 - EDA Execution - Local)
+- [x] Ran `01_eda_and_dataset.ipynb` locally with dataset at `data_raw/BSM`
+- [x] Verified class counts (total=367, matches paper)
+- [x] Per-class mismatch vs paper confirmed (folders swapped vs paper labels)
+- [x] 0 corrupt images, 0 duplicates found
+- [x] Generated outputs in `results/` and `data_info/`
+
+### 🔄 Ready to Run (STEP 2-4 Execution on Kaggle GPU)
+- [ ] Run `02_augmentation.ipynb` on Kaggle GPU (generates combined dataset ~1468 images)
 - [ ] Run `03_split.ipynb` on Kaggle GPU (generates split files)
 - [ ] Run each model notebook with EPOCHS=1 (smoke test) on Kaggle GPU
 - [ ] If smoke tests pass, change EPOCHS=60 and run full training for each model

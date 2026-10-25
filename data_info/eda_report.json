@@ -1,0 +1,41 @@
+{
+  "total_images": 367,
+  "paper_total": 367,
+  "difference": 0,
+  "class_counts": {
+    "Garnet": 60,
+    "Ilmenite": 62,
+    "Monazite": 60,
+    "Rutile": 66,
+    "Sillimanite": 60,
+    "Zircon": 59
+  },
+  "paper_counts": {
+    "Ilmenite": 60,
+    "Rutile": 62,
+    "Zircon": 60,
+    "Garnet": 66,
+    "Monazite": 60,
+    "Sillimanite": 59
+  },
+  "corrupt_count": 0,
+  "corrupt_files": [],
+  "duplicate_count": 0,
+  "duplicates": [],
+  "expected_classes": [
+    "Ilmenite",
+    "Rutile",
+    "Zircon",
+    "Garnet",
+    "Monazite",
+    "Sillimanite"
+  ],
+  "found_classes": [
+    "Garnet",
+    "Ilmenite",
+    "Monazite",
+    "Rutile",
+    "Sillimanite",
+    "Zircon"
+  ]
+}

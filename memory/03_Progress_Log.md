@@ -69,3 +69,15 @@
   - Metrics: Confusion matrix, per-class precision/recall/specificity/F1, RMSE, prediction grids
   - Committed and pushed to GitHub
   - All notebooks have EPOCHS=1 for smoke test; change to 60 after verification
+
+## 2026-10-26 (continued)
+- **STEP 1 - EDA Execution**: COMPLETED (run locally)
+  - Ran `01_eda_and_dataset.ipynb` locally with dataset at `C:\BSM Project 3\data_raw\BSM`
+  - **Verified class counts** (total=367, matches paper):
+    - Garnet: 60, Ilmenite: 62, Monazite: 60, Rutile: 66, Sillimanite: 60, Zircon: 59
+  - **Per-class mismatch vs paper** confirmed (folders swapped vs paper labels)
+  - **0 corrupt images, 0 duplicates** found
+  - **Image properties**: Variable sizes (148x130 to 561x406), all RGB, mean aspect ratio 1.28
+  - Generated outputs in `results/`: class_distribution.png, sample_grid.png, image_properties.png
+  - Generated outputs in `data_info/`: class_counts.csv, eda_report.json, original_image_list.json/csv
+  - EDA complete - ready for augmentation step
