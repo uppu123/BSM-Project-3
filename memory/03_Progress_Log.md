@@ -50,3 +50,22 @@
     - Saves combined dataset + records to `/kaggle/working/combined_dataset/` and `data_info/`
   - Committed and pushed to GitHub
   - Ready to run on Kaggle GPU
+
+## 2026-10-26 (continued)
+- **STEP 3 - Split Notebook**: CREATED
+  - Created `notebooks/03_split.ipynb` with:
+    - Primary split: 70/15/15 stratified on combined dataset (paper-faithful)
+    - Supplementary split: Leak-free split on originals first, then augment train only
+    - Leakage analysis to quantify train-test overlap
+    - Saves split lists to `data_info/primary_split.json` and `supplementary_split.json`
+  - Committed and pushed to GitHub
+
+- **STEP 4 - Model Training Notebooks**: CREATED (4 notebooks)
+  - `03_resnet18.ipynb`: ResNet-18 (paper target: Acc=0.78, Prec=0.87, Rec=0.78)
+  - `04_resnet34.ipynb`: ResNet-34 (paper target: Acc=0.83, Prec=0.89, Rec=0.83)
+  - `05_dresnet50.ipynb`: D-ResNet-50 / ResNet-50 (paper target: Acc=0.89, Prec=0.90, Rec=0.89)
+  - `06_vgg16.ipynb`: VGG-16 (paper target: Acc=0.83, Prec=0.89, Rec=0.83)
+  - All: PyTorch, ImageNet pretrained, 6-class head, 60 epochs, batch=32, Adam, seed=42
+  - Metrics: Confusion matrix, per-class precision/recall/specificity/F1, RMSE, prediction grids
+  - Committed and pushed to GitHub
+  - All notebooks have EPOCHS=1 for smoke test; change to 60 after verification

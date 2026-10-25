@@ -20,12 +20,13 @@ Reproduction and extension of the paper: **"D-Resnet: deep residual neural netwo
 ## Notebooks (in order)
 1. `01_eda_and_dataset.ipynb` - EDA and dataset exploration
 2. `02_augmentation.ipynb` - Augmentation and combined dataset creation
-3. `03_resnet18.ipynb` - ResNet-18 training
-4. `04_resnet34.ipynb` - ResNet-34 training
-5. `05_dresnet50.ipynb` - D-ResNet-50 training
-6. `06_vgg16.ipynb` - VGG-16 training
-7. `07_comparison.ipynb` - Comparison with paper results
-8. `08_hyperparameter_tuning.ipynb` - Hyperparameter tuning (if needed)
+3. `03_split.ipynb` - Train/val/test split (primary + leak-free supplementary)
+4. `03_resnet18.ipynb` - ResNet-18 training (paper target: 0.78 acc)
+5. `04_resnet34.ipynb` - ResNet-34 training (paper target: 0.83 acc)
+6. `05_dresnet50.ipynb` - D-ResNet-50 training (paper target: 0.89 acc)
+7. `06_vgg16.ipynb` - VGG-16 training (paper target: 0.83 acc)
+8. `07_comparison.ipynb` - Comparison with paper results
+9. `08_hyperparameter_tuning.ipynb` - Hyperparameter tuning (if needed)
 
 ## Results Structure
 - `results/metrics/` - CSV/JSON metrics files
