@@ -1,0 +1,18 @@
+{
+  "title": "BSM Combined Dataset (Augmented)",
+  "id": "kiramada/bsm-combined-augmented",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "subtitle": "Beach Sand Minerals with paper augmentation + translation",
+  "description": "Combined dataset for D-ResNet paper reproduction. Original 367 images augmented with horizontal flip, 6 rotations (0,30,45,90,180,270), and pixel translation (±15%). Resized to 224x224, ImageNet normalized. 1464 total images, 6 classes, 244 per class.",
+  "isPrivate": false,
+  "keywords": [
+    "beach sand minerals",
+    "computer vision",
+    "augmentation",
+    "D-ResNet"
+  ]
+}

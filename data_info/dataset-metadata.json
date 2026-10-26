@@ -1,0 +1,18 @@
+{
+  "title": "BSM Dataset Splits",
+  "id": "kiramada/bsm-dataset-splits",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "subtitle": "Train/Val/Test splits for BSM dataset (primary + leak-free)",
+  "description": "Pre-computed 70/15/15 stratified splits for Beach Sand Mineral dataset. Primary split on combined augmented dataset (1464 images), supplementary leak-free split on original 367 images. Includes leakage analysis.",
+  "isPrivate": false,
+  "keywords": [
+    "beach sand minerals",
+    "data splits",
+    "train test split",
+    "D-ResNet"
+  ]
+}
