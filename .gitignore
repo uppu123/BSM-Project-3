@@ -1,0 +1,33 @@
+# Model files (too large for GitHub)
+models/*/best_model.pth
+models/*/*.pth
+
+# Data files
+data_raw/
+combined_dataset/
+data_info/
+models/*/best_model.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Checkpoints
+*.pth
+*.ckpt
+*.h5
