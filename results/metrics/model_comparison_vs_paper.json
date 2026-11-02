@@ -1,0 +1,50 @@
+[
+  {
+    "Model": "RESNET18",
+    "Our Accuracy": "1.0000",
+    "Paper Accuracy": 0.78,
+    "Diff (Acc)": "+0.2200",
+    "Our Precision": "1.0000",
+    "Paper Precision": 0.87,
+    "Our Recall": "1.0000",
+    "Paper Recall": 0.78,
+    "Our F1": "1.0000",
+    "Status": "\u2705 Above"
+  },
+  {
+    "Model": "RESNET34",
+    "Our Accuracy": "1.0000",
+    "Paper Accuracy": 0.83,
+    "Diff (Acc)": "+0.1700",
+    "Our Precision": "1.0000",
+    "Paper Precision": 0.89,
+    "Our Recall": "1.0000",
+    "Paper Recall": 0.83,
+    "Our F1": "1.0000",
+    "Status": "\u2705 Above"
+  },
+  {
+    "Model": "DRESNET50",
+    "Our Accuracy": "0.9894",
+    "Paper Accuracy": 0.89,
+    "Diff (Acc)": "+0.0994",
+    "Our Precision": "0.9900",
+    "Paper Precision": 0.9,
+    "Our Recall": "0.9894",
+    "Paper Recall": 0.89,
+    "Our F1": "0.9894",
+    "Status": "\u2705 Above"
+  },
+  {
+    "Model": "VGG16",
+    "Our Accuracy": "0.9970",
+    "Paper Accuracy": 0.83,
+    "Diff (Acc)": "+0.1670",
+    "Our Precision": "0.9970",
+    "Paper Precision": 0.89,
+    "Our Recall": "0.9970",
+    "Paper Recall": 0.83,
+    "Our F1": "0.9970",
+    "Status": "\u2705 Above"
+  }
+]

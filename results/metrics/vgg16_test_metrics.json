@@ -1,0 +1,51 @@
+{
+  "Garnet": {
+    "precision": 1.0,
+    "recall": 0.9907407407407407,
+    "f1-score": 0.9953488372093023,
+    "support": 108.0
+  },
+  "Ilmenite": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 112.0
+  },
+  "Monazite": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 108.0
+  },
+  "Rutile": {
+    "precision": 0.9834710743801653,
+    "recall": 1.0,
+    "f1-score": 0.9916666666666667,
+    "support": 119.0
+  },
+  "Sillimanite": {
+    "precision": 1.0,
+    "recall": 0.9907407407407407,
+    "f1-score": 0.9953488372093023,
+    "support": 108.0
+  },
+  "Zircon": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 106.0
+  },
+  "accuracy": 0.9969742813918305,
+  "macro avg": {
+    "precision": 0.997245179063361,
+    "recall": 0.9969135802469135,
+    "f1-score": 0.9970607235142119,
+    "support": 661.0
+  },
+  "weighted avg": {
+    "precision": 0.9970242932696515,
+    "recall": 0.9969742813918305,
+    "f1-score": 0.9969798519977953,
+    "support": 661.0
+  }
+}

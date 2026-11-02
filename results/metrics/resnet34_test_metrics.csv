@@ -1,0 +1,10 @@
+,precision,recall,f1-score,support
+Garnet,1.0,1.0,1.0,108.0
+Ilmenite,1.0,1.0,1.0,112.0
+Monazite,1.0,1.0,1.0,108.0
+Rutile,1.0,1.0,1.0,119.0
+Sillimanite,1.0,1.0,1.0,108.0
+Zircon,1.0,1.0,1.0,106.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,661.0
+weighted avg,1.0,1.0,1.0,661.0
